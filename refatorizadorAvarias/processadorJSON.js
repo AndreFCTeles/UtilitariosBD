@@ -20,9 +20,18 @@ fs.readFile(oldFilePath, 'utf8', (err, data) => {
 
 function transformAvarias(oldAvariasList) {
    const avariaEntries = Object.entries(oldAvariasList[0]);
-   return avariaEntries.map(([key, value]) => ({
+   let id = 0; // Initialize ID counter
+   /* return avariaEntries.map(([key, value]) => ({
       Avaria: value
-   }));
+   })); */
+   return avariaEntries.map(([key, value]) => {
+      if (key.startsWith('Avarias')) {
+         return {
+            ID: id++,
+            Avaria: value
+         };
+      }
+   }).filter(Boolean); // Filter out any undefined entries (in case there are keys that don't start with 'Avarias')
 }
 
 function writeJsonFile(filePath, data) {

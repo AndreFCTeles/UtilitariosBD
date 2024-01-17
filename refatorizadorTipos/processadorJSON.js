@@ -20,7 +20,10 @@ fs.readFile(oldFilePath, 'utf8', (err, data) => {
 
 function transformTipos(oldTiposList) {
    const TipoEntries = Object.entries(oldTiposList[0]);
+   let id = 0;
+
    return TipoEntries.map(([key, value]) => ({
+      ID: id++,
       Tipo: value
    }));
 }

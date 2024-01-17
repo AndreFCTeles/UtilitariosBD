@@ -23,6 +23,7 @@ function transformClients(oldClientList) {
       ID: index,
       Nome: value,
       Empresa: null,
+      País: null,
       Morada: null,
       Contactos: [{
          Nome: null,

@@ -11,7 +11,6 @@ fs.readFile(oldFilePath, 'utf8', (err, data) => {
       console.error("Error reading the file", err);
       return;
    }
-
    const oldModelosElectrexList = JSON.parse(data);
    const newModelosElectrexList = transformModelosElectrex(oldModelosElectrexList);
 
@@ -20,7 +19,10 @@ fs.readFile(oldFilePath, 'utf8', (err, data) => {
 
 function transformModelosElectrex(oldModelosElectrexList) {
    const ModeloElectrexEntries = Object.entries(oldModelosElectrexList[0]);
+   let id = 0;
+
    return ModeloElectrexEntries.map(([key, value]) => ({
+      ID: id++,
       ModeloElectrex: value
    }));
 }

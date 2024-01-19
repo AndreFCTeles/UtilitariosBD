@@ -1,0 +1,420 @@
+[{
+  "_id": {
+    "$oid": "65671bc758333f103ac47924"
+  },
+  "ID": 11,
+  "Circuito": "CI MIG Serie 6 DIGIT B",
+  "Orig": "Linha produção",
+  "Revisao": "Rev4.0",
+  "OrdemRep": null,
+  "Numero": 30181367,
+  "Data": {
+    "$date": "2019-02-25T09:22:55.000Z"
+  },
+  "Obs": "Devolvido Electro-Portugal",
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac47925"
+  },
+  "ID": 12,
+  "Circuito": "CI MIG Serie 6 Interface",
+  "Orig": "Linha produção",
+  "Revisao": "Rev3.0",
+  "OrdemRep": null,
+  "Numero": 29160203,
+  "Data": {
+    "$date": "2019-02-25T09:24:49.000Z"
+  },
+  "Obs": null,
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac47926"
+  },
+  "ID": 13,
+  "Circuito": "CI LTRONIC CONTROL",
+  "Orig": "Linha produção",
+  "Revisao": "Rev3.0",
+  "OrdemRep": null,
+  "Numero": 23160002,
+  "Data": {
+    "$date": "2019-02-25T09:25:26.000Z"
+  },
+  "Obs": null,
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac47927"
+  },
+  "ID": 14,
+  "Circuito": "CI MIG Serie 6 DIGIT",
+  "Orig": "Linha produção",
+  "Revisao": "Rev4.0",
+  "OrdemRep": null,
+  "Numero": 26160168,
+  "Data": {
+    "$date": "2019-02-25T09:25:54.000Z"
+  },
+  "Obs": "Devolvido Blas",
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac47928"
+  },
+  "ID": 15,
+  "Circuito": "CI LTRONIC CONTROL",
+  "Orig": "Linha produção",
+  "Revisao": "Rev1.0",
+  "OrdemRep": null,
+  "Numero": 36160015,
+  "Data": {
+    "$date": "2019-02-25T09:27:11.000Z"
+  },
+  "Obs": null,
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac47929"
+  },
+  "ID": 16,
+  "Circuito": "CI LTRONIC FRONT",
+  "Orig": "Linha produção",
+  "Revisao": "Rev3.0",
+  "OrdemRep": null,
+  "Numero": 18220622,
+  "Data": {
+    "$date": "2019-02-25T09:28:18.000Z"
+  },
+  "Obs": "Devolvido WSD",
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac4792a"
+  },
+  "ID": 17,
+  "Circuito": "CI MIG Serie 6 Interface",
+  "Orig": "Linha produção",
+  "Revisao": "Rev2.0",
+  "OrdemRep": null,
+  "Numero": 7160356,
+  "Data": {
+    "$date": "2019-02-25T09:29:07.000Z"
+  },
+  "Obs": "Devolvido Serecon",
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac4792b"
+  },
+  "ID": 18,
+  "Circuito": "CI MIG Serie 6 Interface",
+  "Orig": "Linha produção",
+  "Revisao": "Rev3.0",
+  "OrdemRep": null,
+  "Numero": 31160511,
+  "Data": {
+    "$date": "2019-02-25T09:29:57.000Z"
+  },
+  "Obs": "Devolvido Blas",
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac4792c"
+  },
+  "ID": 19,
+  "Circuito": "CI MIG Serie 6 Interface",
+  "Orig": "Linha produção",
+  "Revisao": "Rev4.0",
+  "OrdemRep": null,
+  "Numero": 40170200,
+  "Data": {
+    "$date": "2019-02-25T09:30:37.000Z"
+  },
+  "Obs": null,
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac4792d"
+  },
+  "ID": 20,
+  "Circuito": "CI Power MIG300SI",
+  "Orig": "Linha produção",
+  "Revisao": "Rev3.0",
+  "OrdemRep": null,
+  "Numero": {
+    "$numberLong": "2318005600014"
+  },
+  "Data": {
+    "$date": "2019-02-25T09:31:07.000Z"
+  },
+  "Obs": null,
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac4792e"
+  },
+  "ID": 21,
+  "Circuito": "CI MIG Serie 6 DIGIT",
+  "Orig": "Linha produção",
+  "Revisao": "Rev4.0",
+  "OrdemRep": null,
+  "Numero": 26160179,
+  "Data": {
+    "$date": "2019-02-25T09:31:47.000Z"
+  },
+  "Obs": null,
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac4792f"
+  },
+  "ID": 22,
+  "Circuito": "CI MIG Serie 6 Interface",
+  "Orig": "Linha produção",
+  "Revisao": "Rev2.0",
+  "OrdemRep": null,
+  "Numero": 0,
+  "Data": {
+    "$date": "2019-02-25T09:32:28.000Z"
+  },
+  "Obs": "Devolvido Elfi",
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac47930"
+  },
+  "ID": 23,
+  "Circuito": "CI MIG Serie 6 DIGIT",
+  "Orig": "Linha produção",
+  "Revisao": "Rev4.0",
+  "OrdemRep": null,
+  "Numero": 26160271,
+  "Data": {
+    "$date": "2019-02-25T09:34:11.000Z"
+  },
+  "Obs": "Devolvido Serecon",
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac47931"
+  },
+  "ID": 24,
+  "Circuito": "CI LTRONIC FRONT",
+  "Orig": "Linha produção",
+  "Revisao": "Rev3.0",
+  "OrdemRep": null,
+  "Numero": 29170062,
+  "Data": {
+    "$date": "2019-02-25T09:35:04.000Z"
+  },
+  "Obs": "Devolvido Soldan-WSD",
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac47932"
+  },
+  "ID": 25,
+  "Circuito": "CI MIG Serie 6 DIGIT",
+  "Orig": "Linha produção",
+  "Revisao": "Rev4.0",
+  "OrdemRep": null,
+  "Numero": 31160508,
+  "Data": {
+    "$date": "2019-02-25T09:35:45.000Z"
+  },
+  "Obs": null,
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac47933"
+  },
+  "ID": 27,
+  "Circuito": "CI SMD THI DIGIT",
+  "Orig": "Linha produção",
+  "Revisao": "Rev1.0",
+  "OrdemRep": null,
+  "Numero": 36160117,
+  "Data": {
+    "$date": "2019-02-25T09:38:50.000Z"
+  },
+  "Obs": "Devolvido Sumasol",
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac47934"
+  },
+  "ID": 28,
+  "Circuito": "CI MIG Serie 6 Interface",
+  "Orig": "Linha produção",
+  "Revisao": "Rev2.0",
+  "OrdemRep": null,
+  "Numero": 7160369,
+  "Data": {
+    "$date": "2019-02-25T09:43:41.000Z"
+  },
+  "Obs": "Devolvido Orexad - JBDI",
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac47935"
+  },
+  "ID": 29,
+  "Circuito": "CI LTRONIC FRONT",
+  "Orig": "Linha produção",
+  "Revisao": "Rev3.0",
+  "OrdemRep": null,
+  "Numero": 29170132,
+  "Data": {
+    "$date": "2019-02-25T09:44:28.000Z"
+  },
+  "Obs": null,
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac47936"
+  },
+  "ID": 30,
+  "Circuito": "CI LTRONIC FRONT",
+  "Orig": "Linha produção",
+  "Revisao": "Rev3.0",
+  "OrdemRep": null,
+  "Numero": 18220485,
+  "Data": {
+    "$date": "2019-02-25T09:45:01.000Z"
+  },
+  "Obs": null,
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac47937"
+  },
+  "ID": 31,
+  "Circuito": "CI LTRONIC FRONT",
+  "Orig": "Linha produção",
+  "Revisao": "Rev3.0",
+  "OrdemRep": null,
+  "Numero": 29170145,
+  "Data": {
+    "$date": "2019-02-25T09:45:26.000Z"
+  },
+  "Obs": null,
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac47938"
+  },
+  "ID": 32,
+  "Circuito": "CI LTRONIC FRONT",
+  "Orig": "Linha produção",
+  "Revisao": "Rev3.0",
+  "OrdemRep": null,
+  "Numero": 29170131,
+  "Data": {
+    "$date": "2019-02-25T09:45:54.000Z"
+  },
+  "Obs": null,
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac47939"
+  },
+  "ID": 33,
+  "Circuito": "CI LTRONIC FRONT",
+  "Orig": "Linha produção",
+  "Revisao": "Rev3.0",
+  "OrdemRep": null,
+  "Numero": 29170123,
+  "Data": {
+    "$date": "2019-02-25T09:46:15.000Z"
+  },
+  "Obs": null,
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac4793a"
+  },
+  "ID": 34,
+  "Circuito": "CI LTRONIC FRONT",
+  "Orig": "Linha produção",
+  "Revisao": "Rev3.0",
+  "OrdemRep": null,
+  "Numero": 29170156,
+  "Data": {
+    "$date": "2019-02-25T09:46:35.000Z"
+  },
+  "Obs": "Devolvido Welda",
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac4793b"
+  },
+  "ID": 35,
+  "Circuito": "CI LTRONIC FRONT",
+  "Orig": "Linha produção",
+  "Revisao": "Rev3.0",
+  "OrdemRep": null,
+  "Numero": 30180869,
+  "Data": {
+    "$date": "2019-02-28T16:38:20.000Z"
+  },
+  "Obs": "Tensão trocada.",
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac4793c"
+  },
+  "ID": 36,
+  "Circuito": "CI MIG300SI CONTROL",
+  "Orig": "Linha produção",
+  "Revisao": "Rev5.0",
+  "OrdemRep": null,
+  "Numero": {
+    "$numberLong": "2418005530011"
+  },
+  "Data": {
+    "$date": "2019-03-06T12:33:38.000Z"
+  },
+  "Obs": "Troca resistências R42 e R71.\nVerficar se NTC's funcionam bem.",
+  "Reparacao": "Planeada"
+},
+{
+  "_id": {
+    "$oid": "65671bc758333f103ac4793d"
+  },
+  "ID": 37,
+  "Circuito": "CI MIG Serie 6 DIGIT B",
+  "Orig": "Linha produção",
+  "Revisao": "Rev4.0",
+  "OrdemRep": null,
+  "Numero": 22181087,
+  "Data": {
+    "$date": "2019-04-08T11:56:06.000Z"
+  },
+  "Obs": "Regulador 12V avariado.",
+  "Reparacao": "Planeada"
+}]

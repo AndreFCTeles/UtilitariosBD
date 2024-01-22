@@ -1,0 +1,328 @@
+[{
+  "_id": {
+    "$oid": "65671b7e58333f103ac478ab"
+  },
+  "ID": 1,
+  "Circuito": null
+},
+{
+  "_id": {
+    "$oid": "65671b7e58333f103ac478ac"
+  },
+  "ID": 5,
+  "Circuito": "CI LTRONIC CONTROL"
+},
+{
+  "_id": {
+    "$oid": "65671b7e58333f103ac478ad"
+  },
+  "ID": 6,
+  "Circuito": "CI MIG Serie 6 DIGIT B"
+},
+{
+  "_id": {
+    "$oid": "65671b7e58333f103ac478ae"
+  },
+  "ID": 7,
+  "Circuito": "CI MIG Serie 6 Interface"
+},
+{
+  "_id": {
+    "$oid": "65671b7e58333f103ac478af"
+  },
+  "ID": 8,
+  "Circuito": "CI LTRONIC FRONT"
+},
+{
+  "_id": {
+    "$oid": "65671b7e58333f103ac478b0"
+  },
+  "ID": 9,
+  "Circuito": "CI MIG Serie 6 DIGIT"
+},
+{
+  "_id": {
+    "$oid": "65671b7e58333f103ac478b1"
+  },
+  "ID": 10,
+  "Circuito": "CI Power MIG300SI"
+},
+{
+  "_id": {
+    "$oid": "65671b7e58333f103ac478b2"
+  },
+  "ID": 11,
+  "Circuito": "CI SMD THI DIGIT"
+},
+{
+  "_id": {
+    "$oid": "65671b7e58333f103ac478b3"
+  },
+  "ID": 12,
+  "Circuito": "CI MIG300SI CONTROL"
+},
+{
+  "_id": {
+    "$oid": "65671b7e58333f103ac478b4"
+  },
+  "ID": 13,
+  "Circuito": "CI INV ACDC FRONT"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999543b"
+  },
+  "ID": 1
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999543c"
+  },
+  "ID": 5,
+  "Circuito": "CI LTRONIC CONTROL"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999543d"
+  },
+  "ID": 6,
+  "Circuito": "CI MIG Serie 6 DIGIT B"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999543e"
+  },
+  "ID": 7,
+  "Circuito": "CI MIG Serie 6 Interface"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999543f"
+  },
+  "ID": 8,
+  "Circuito": "CI LTRONIC FRONT"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995440"
+  },
+  "ID": 9,
+  "Circuito": "CI MIG Serie 6 DIGIT"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995441"
+  },
+  "ID": 10,
+  "Circuito": "CI Power MIG300SI"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995442"
+  },
+  "ID": 11,
+  "Circuito": "CI SMD THI DIGIT"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995443"
+  },
+  "ID": 12,
+  "Circuito": "CI MIG300SI CONTROL"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995444"
+  },
+  "ID": 13,
+  "Circuito": "CI INV ACDC FRONT"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995445"
+  },
+  "ID": 14,
+  "Circuito": "CI INV TP CONTROL"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995446"
+  },
+  "ID": 15,
+  "Circuito": "CI Frontal MIG300SI"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995447"
+  },
+  "ID": 16,
+  "Circuito": "CI Inv Mig Control"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995448"
+  },
+  "ID": 17,
+  "Circuito": "CI RCD DIGIT"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995449"
+  },
+  "ID": 18,
+  "Circuito": "CI INV VRD"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999544a"
+  },
+  "ID": 19,
+  "Circuito": "Inverprotek"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999544b"
+  },
+  "ID": 20,
+  "Circuito": "CI INV TP AUX POWER"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999544c"
+  },
+  "ID": 21,
+  "Circuito": "CI Amp/Volt SMD"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999544d"
+  },
+  "ID": 22,
+  "Circuito": "CI INV DC FRONT"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999544e"
+  },
+  "ID": 23,
+  "Circuito": "CI INV TP FRONT"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999544f"
+  },
+  "ID": 24,
+  "Circuito": "SMD RCD DIGIT"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995450"
+  },
+  "ID": 25,
+  "Circuito": "CI INV TRI DC FRONT"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995451"
+  },
+  "ID": 26,
+  "Circuito": "CI INV TRI TP FRONT"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995452"
+  },
+  "ID": 27,
+  "Circuito": "CI.AF FULX 500"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995453"
+  },
+  "ID": 28,
+  "Circuito": "CI Controlo AF TIG"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995454"
+  },
+  "ID": 29,
+  "Circuito": "MIG S5"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995455"
+  },
+  "ID": 30,
+  "Circuito": "CI TP FRONT"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995456"
+  },
+  "ID": 31,
+  "Circuito": "CI ACDC RELAY"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995457"
+  },
+  "ID": 32,
+  "Circuito": "DC/DC 24V"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995458"
+  },
+  "ID": 33,
+  "Circuito": "CI ACDC CONTROL"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e0099995459"
+  },
+  "ID": 34,
+  "Circuito": "REGULADOR AF TIG"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999545a"
+  },
+  "ID": 35,
+  "Circuito": "Motor MIG300SI"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999545b"
+  },
+  "ID": 36,
+  "Circuito": "CI INV DC 500 FROMT"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999545c"
+  },
+  "ID": 37,
+  "Circuito": "mig control 500"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999545d"
+  },
+  "ID": 38,
+  "Circuito": "CI CAP MONOMIG"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999545e"
+  },
+  "ID": 39,
+  "Circuito": "CI.AF FULX 500 isolador"
+},
+{
+  "_id": {
+    "$oid": "65ae88e3c7b74e009999545f"
+  },
+  "ID": 40,
+  "Circuito": "CI ACDC CONTROL V2"
+}]
